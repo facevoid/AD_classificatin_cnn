@@ -1,0 +1,7 @@
+tensorflow
+keras
+nibabel
+Pillow
+opencv-python
+scikit-learn
+

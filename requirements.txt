@@ -4,4 +4,4 @@ nibabel
 Pillow
 opencv-python
 scikit-learn
-
+matplotlib
